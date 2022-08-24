@@ -1,0 +1,13 @@
+.filter {
+  margin-bottom: 15px;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+.labelFilter {
+  color: #000;
+}
+
+.filterInput {
+  margin-left: 20px;
+}
